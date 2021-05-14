@@ -836,7 +836,7 @@ body {
   height: 100vh;
   position: fixed;
   top: 0;
-  left: -25%;
+  left: -40%;
   z-index: 1001;
   visibility: hidden;
   width: 0;
@@ -845,7 +845,7 @@ body {
 .navigation__list {
   position: absolute;
   top: 50%;
-  left: 75%;
+  left: 90%;
   transform: translate(-50%, -50%);
   left: 75%;
   list-style: none;
